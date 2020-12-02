@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: nginx-server
-      image: "davidetammaronutanix/nginx:2.0"
+      image: "davidetammaronutanix/nginx:1.0"
       ports:
           - containerPort: 80
